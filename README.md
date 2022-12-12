@@ -30,7 +30,9 @@ RAM: 4GB.0
 **6.Time assigning formula:**
 
 Input: vehicles with inside the lane
+
 Processing: Time assigned to every lane=wide variety of motors with inside the lane *time assigned   to every car + Base time 
+
 Output: Time allotted to that precise lane for the motors to transport 
 
 **7.Steps of Execution**
@@ -43,8 +45,7 @@ Output: Time allotted to that precise lane for the motors to transport
 
 ![image](https://user-images.githubusercontent.com/119982694/207169925-bebf9df3-1fdf-4c5a-9f1f-109abbf830f2.png)
 ![image](https://user-images.githubusercontent.com/119982694/207169986-c94593e6-1acf-46ae-9fc6-ee89a80f26c5.png)
-[image](https://user-images.githubusercontent.com/119982694/207169760-83783311-c01d-4dc2-a149-cf83c7573ba2.png)
-![image](https://user-images.githubusercontent.com/119982694/207170032-dd1887f5-b1b2-429b-9ccd-a8e74b6c06d1.png)
+![image](https://user-images.githubusercontent.com/119982694/207170212-8523b1ba-c755-40a0-b191-aa346c078ec3.png)
 
 
 
