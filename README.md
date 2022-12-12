@@ -1,5 +1,6 @@
 # vision-based-vehicle-detection
 **1.Motivation**
+
 This project is used to detect the vehicles infront of the traffic lanes and gives count based on the count.So that the traffic signal will be given according the count.
 
 **2.DataSet used**
@@ -18,13 +19,17 @@ OS
 **4.Software requirements:**
 
 Operating machine: Windows 10. 
+
 Coding language: Python.
+
 IDE: Spyder. 2.5.2
 
 **5.Hardware requirements:** 
 
 System: Intel Core i5 2. four GHz.
+
 Hard Disk: 1 TB. 
+
 RAM: 4GB.0
 
 **6.Time assigning formula:**
@@ -38,7 +43,9 @@ Output: Time allotted to that precise lane for the motors to transport
 **7.Steps of Execution**
 
 1.first download a demo video for the input
+
 2.load the xml trained model
+
 3.start the execution then it automatically divides the frames and detect the vehicles.
 
 **8.Results**
