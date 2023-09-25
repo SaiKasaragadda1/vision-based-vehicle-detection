@@ -1,6 +1,4 @@
-import cv2
-import time
-import numpy as np
+
 font                   = cv2.FONT_HERSHEY_SIMPLEX 
 bottomLeftCornerOfText = (20,220)   
 fontScale              = 1
